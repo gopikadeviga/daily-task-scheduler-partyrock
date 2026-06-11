@@ -36,3 +36,8 @@ The purpose of this repository is to document the **design decisions and prompt 
 ## Generated Schedule screenshot
 
 <img width="1531" height="667" alt="02-generated-schedule" src="https://github.com/user-attachments/assets/94919e66-f5f2-4499-9d36-55484f1eb47a" />
+
+## Chatbot for assistance
+
+<img width="1525" height="775" alt="03-chatbot" src="https://github.com/user-attachments/assets/78303914-a821-4c91-aa3d-bae91cd463d6" />
+
