@@ -44,7 +44,8 @@ The purpose of this repository is to document the **design decisions and prompt 
 
 ## Widget prompt
 
-<img width="624" height="357" alt="04-widget-prompt" src="https://github.com/user-attachments/assets/0697951b-1de2-4b83-8c64-c66f241ef6cf" />
+<img width="624" height="357" alt="04-widget-prompt" src="https://github.com/user-attachments/assets/b11d2198-3e75-4baf-a0b7-e3ec8169e9e5" />
+
 
 
 
