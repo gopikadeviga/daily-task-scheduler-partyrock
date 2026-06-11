@@ -42,3 +42,8 @@ The purpose of this repository is to document the **design decisions and prompt 
 
 <img width="1525" height="775" alt="03-chatbot" src="https://github.com/user-attachments/assets/78303914-a821-4c91-aa3d-bae91cd463d6" />
 
+## Widget prompt
+
+<img width="624" height="357" alt="04-widget-prompt" src="https://github.com/user-attachments/assets/3178eef9-812c-4113-842e-755160421c55" />
+
+
