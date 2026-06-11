@@ -12,6 +12,7 @@ The user enters their tasks, available hours, start time, fixed commitments, and
 
 The purpose of this repository is to document the **design decisions and prompt engineering** behind the app — PartyRock hosts the app itself.
 
+<img width="1853" height="917" alt="01-app-overview" src="https://github.com/user-attachments/assets/6dc3a40d-3858-4633-bee2-111d8410ba85" />
 
 ##  How It's Built 
 
