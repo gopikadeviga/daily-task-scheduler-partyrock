@@ -32,3 +32,7 @@ The purpose of this repository is to document the **design decisions and prompt 
 **Generated schedule :**
 
 > **Focus of the Day:** Deep work on AWS projects while managing family commitments around school drop-off and pick-up.
+
+## Generated Schedule screenshot
+
+<img width="1531" height="667" alt="02-generated-schedule" src="https://github.com/user-attachments/assets/94919e66-f5f2-4499-9d36-55484f1eb47a" />
