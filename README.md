@@ -3,7 +3,7 @@
 A no-code generative-AI application that turns a plain list of daily tasks into a realistic, prioritized, time-blocked schedule. 
 Built on **Amazon PartyRock** (powered by Amazon Bedrock foundation models) — no code, pure prompt engineering and widget design.
 
-##  Overview
+## Overview
 
 This project demonstrates how to design, build, and publish a functional generative-AI app **without writing any code**, while applying real prompt-engineering discipline.
 
