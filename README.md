@@ -29,7 +29,7 @@ The purpose of this repository is to document the **design decisions and prompt 
 
 **Inputs:** Gym, cook food, drop kid, work on AWS projects, lunch, pickup kid, dinner · Start 5:00 AM · 10 hrs available · Priority: AWS projects · Fixed: 5 AM gym, 10 AM drop kid, 4 PM pick kid
 
-**Generated schedule :**
+**Generated schedule:**
 
 > **Focus of the Day:** Deep work on AWS projects while managing family commitments around school drop-off and pick-up.
 
