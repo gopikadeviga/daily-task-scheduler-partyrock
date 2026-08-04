@@ -7,7 +7,6 @@ Built on **Amazon PartyRock** (powered by Amazon Bedrock foundation models) — 
 This project demonstrates how to design, build, and publish a functional generative-AI app **without writing any code**, while applying real prompt-engineering discipline.
 
 The user enters their tasks, available hours, start time, fixed commitments, and priorities. A Bedrock model generates a clean, time-blocked daily schedule that respects fixed appointments, orders work by priority, inserts breaks, and flags anything that won't fit. An interactive chatbot then lets the user adjust the plan conversationally.
-
 The purpose of this repository is to document the **design decisions and prompt engineering** behind the app — PartyRock hosts the app itself.
 
 <img width="1853" height="917" alt="01-app-overview" src="https://github.com/user-attachments/assets/6dc3a40d-3858-4633-bee2-111d8410ba85" />
