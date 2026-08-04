@@ -13,6 +13,7 @@ The purpose of this repository is to document the **design decisions and prompt 
 
 ##  How It's Built 
 
+
 | Widget | PartyRock Type | Purpose |
 |--------|----------------|---------|
 | Today's Tasks | Text Input | The day's tasks, one per line |
